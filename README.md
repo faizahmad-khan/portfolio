@@ -32,4 +32,4 @@ Here are some of the projects I'm proud of:
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cypher-Commits-WIP&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizahmad-khan&show_icons=true&theme=radical)

@@ -30,7 +30,7 @@ This project breaks down complex Object-Oriented Programming (OOP) concepts into
 I developed this suite to apply theoretical coding knowledge in a fun, interactive environment. It includes multiple games that test user reflexes and logic, showcasing clean UI design and smooth user interaction.
 - **Key Features:** Responsive design, complex game logic implementation, and DOM manipulation.
 - **Technologies used:** HTML, CSS, JavaScript
-- **GitHub Repository:**
+- **GitHub Repository:** https://github.com/faizahmad-khan/web-games
 
 #### **AR App for Breed Detection**
 *This project combines augmented reality with a database to detect and identify different animal breeds.*

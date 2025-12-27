@@ -14,7 +14,15 @@ I am a B.Tech student at **Babu Banarasi Das University**, passionate about crea
 
 ### 🚀 Projects
 
-Here are some of the projects I'm proud of:
+Here are some of the projects I'm proud of. I enjoy building things that solve problems or provide entertainment.
+
+#### **1. Comprehensive Java Learning Hub**
+*An educational resource designed to make Java programming accessible and easy to understand for beginners and students.*
+
+This project breaks down complex Object-Oriented Programming (OOP) concepts into simple, digestible modules. It serves as a complete guide for students struggling with the syntax and logic of Java.
+- **Key Features:** Structured curriculum, real-world code examples, and simplified explanations of core concepts like Inheritance and Polymorphism.
+- **Technologies used:** Java, Documentation
+- **GitHub Repository:**
 
 #### **AR App for Breed Detection**
 *This project combines augmented reality with a database to detect and identify different animal breeds.*
